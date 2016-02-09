@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map for SoftwareSerial
+# (formerly NewSoftSerial)
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+goal KEYWORD1
+pos	KEYWORD1
+Distance KEYWORD1
+write	KEYWORD1
+lastTime KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+SetAngle KEYWORD2
+Update	KEYWORD2
+SetLastTime KEYWORD2
+TimePassed KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SERVO_SPEED	LITERAL1
