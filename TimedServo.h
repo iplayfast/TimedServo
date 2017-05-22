@@ -25,6 +25,7 @@ public:
   bool Update(unsigned long currentMillSec);
   void SetLastTime(unsigned long lt) { lastTime = lt; }
   bool TimePassed(unsigned long currentMillSec);
+  bool AtPosition() const { return pos==goal; }
 };
 
 #endif // TIMEDSERVO_H
